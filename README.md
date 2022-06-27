@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Alfredo Villavicencio Luis</h1>
-<h3 align="center">Soy programador junior, mi amor por la programación me ha llevado a conocer y aprender todos los lenguajes posibles, Me adapto a las necesidades del entorno de trabajo que me rodea.</h3>
+<h3 align="center">I am a junior programmer, my love for programming has led me to know and learn all possible languages, I adapt to the needs of the work environment that surroun.</h3>
 
 
 
