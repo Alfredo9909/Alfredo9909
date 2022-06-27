@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando en [SunnyChepil](https://github.com/kevdany17/DataBaseMigrationSunnyChepil.git)
 
-- 🌱 Actualmente estoy aprendiendo **Patrones de diseño en Java**
+- 🌱 Actualmente estoy aprendiendo **design patterns, creation of 3D figures, creation of compilers**
 
 
 
