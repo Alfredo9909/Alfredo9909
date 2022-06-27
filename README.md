@@ -16,7 +16,7 @@
 <h3 align="left">Conéctate conmigo:</h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfredo9909&show_icons=true&locale=en&layout=compact" alt="alfredo9909" /></p>
+
 
 >
 
