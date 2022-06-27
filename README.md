@@ -3,15 +3,15 @@
 
 
 
-- 🔭 Actualmente estoy trabajando en [SunnyChepil](https://github.com/kevdany17/DataBaseMigrationSunnyChepil.git)
+- 🔭 I am currently working in [SunnyChepil](https://github.com/kevdany17/DataBaseMigrationSunnyChepil.git)
 
-- 🌱 Actualmente estoy aprendiendo **design patterns, creation of 3D figures, creation of compilers**
+- 🌱 I’m currently learning **design patterns, creation of 3D figures, creation of compilers**
 
 
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Alfredo9909?tab=repositories](https://github.com/Alfredo9909?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Alfredo9909?tab=repositories](https://github.com/Alfredo9909?tab=repositories)
 
-- 💬 Pregúntame sobre **Como es la vida de un programador**
+- 💬  Ask me about **How is the life of a programmer**
 
 <h3 align="left">Conéctate conmigo:</h3>
 
