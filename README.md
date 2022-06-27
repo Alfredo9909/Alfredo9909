@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Alfredo Villavicencio Luis</h1>
 <h3 align="center">Soy programador junior, mi amor por la programación me ha llevado a conocer y aprender todos los lenguajes posibles, Me adapto a las necesidades del entorno de trabajo que me rodea.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfredo9909" alt="alfredo9909" /></a> </p>
+
 
 - 🔭 Actualmente estoy trabajando en [SunnyChepil](https://github.com/kevdany17/DataBaseMigrationSunnyChepil.git)
 
