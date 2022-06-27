@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfredo9909" alt="alfredo9909" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en [SunnyChepil] <a href="(https ://github.com/kevdany17/DataBaseMigrationSunnyChepil.git)">SunnyChepil</a>
+- 🔭 Actualmente estoy trabajando en [SunnyChepil] <li><a href="(https ://github.com/kevdany17/DataBaseMigrationSunnyChepil.git)">SunnyChepil</a></li>
 
 - 🌱 Actualmente estoy aprendiendo **Patrones de diseño en Java**
 
