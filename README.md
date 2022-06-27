@@ -9,7 +9,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [Alfredo/Repositorios](https://github.com/Alfredo9909?tab=repositories)
+- 👨‍💻 All of my projects are available at [Alfredo9909/Repositorios](https://github.com/Alfredo9909?tab=repositories)
 
 - 💬  Ask me about **How is the life of a programmer**
 
