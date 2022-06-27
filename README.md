@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hola 👋, soy Alfredo Villavicencio Luis</h1>
+<h3 align="center">Soy programador junior, mi amor por la programación me ha llevado a conocer y aprender todos los lenguajes posibles, Me adapto a las necesidades del entorno de trabajo que me rodea.</h3>
 
-<!--
-**Alfredo9909/Alfredo9909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfredo9909" alt="alfredo9909" /></a> </p>
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando en [SunnyChepil](https ://github.com/kevdany17/DataBaseMigrationSunnyChepil.git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Actualmente estoy aprendiendo **Patrones de diseño en Java**
+
+
+
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/Alfredo9909?tab=repositories](https://github.com/Alfredo9909?tab=repositories)
+
+- 💬 Pregúntame sobre **Como es la vida de un programador**
+
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+<a href="https://fb.com/alfredo villavicencio luis" target= "en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt= "alfredo villavicencio luis" alto="30" ancho="40" /></a>
+<a href="https://instagram.com/alfredovl10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="alfredovl10" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfredo9909&show_icons=true&locale=en&layout=compact" alt="alfredo9909" /></p>
+
+<p> < img align="center" src="https://github-readme-stats.vercel.app/api?username=alfredo9909&show_icons=true&locale=en" alt="alfredo9909" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfredo9909&" alt="alfredo9909" /></p>
