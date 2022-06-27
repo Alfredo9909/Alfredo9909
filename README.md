@@ -5,7 +5,7 @@
 
 - 🔭 I am currently working in [SunnyChepil](https://github.com/kevdany17/DataBaseMigrationSunnyChepil.git) and [Graphics](https://github.com/jorrgeCruz/graphics.git)
 
-- 🌱 I’m currently learning **design patterns, creation of 3D figures, creation of compilers**
+- 🌱 I’m currently learning **design patterns in Java, creation of 3D figures, creation of compilers and database managers**
 
 
 
