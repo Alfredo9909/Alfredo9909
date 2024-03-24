@@ -5,7 +5,7 @@
 
 - 🔭 I am currently working in [Sigi_base_laravel](https://github.com/impulzo/sigi_base_laravel.git) and [PitJv](https://github.com/Grupo-Vysisa/pitjv.git)
 
-- 🌱 I’m currently learning **design patterns in Java, creation of 3D figures, creation of compilers and database managers and Website creation PHP using Laravel, managing the Voyager admin package**
+- 🌱 I’m currently learning **design patterns in Java, creation of 3D figures, creation of compilers, database managers and Website creation PHP using Laravel, managing the Voyager admin package**
 
 
 
