@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I am currently working in [Zinganización React](https://github.com/Grupo-Vysisa/ZingaReact) and [PitJv](https://github.com/Grupo-Vysisa/pitjv.git)
+- 🔭 I am currently working in a system of guards and logs. (https://github.com/alfredonet99/GuardiasBitacora))
 
 - 🌱 I’m currently learning **design patterns in Java, creation of 3D figures, creation of compilers, database managers and Website creation PHP using Laravel and library React of JS, managing the Voyager admin package**
 
