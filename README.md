@@ -14,17 +14,14 @@
         PHP, Java, JavaScript, Python and C++
     
     🔹Frameworks
-        Backend
   
-          Laravel (PHP), Spring Boot (Java)
+          Backend: Laravel (PHP), Spring Boot (Java)
           
-        Frontend/Full-Stack
-          
-          Inertia.js, react
+          Front-End: Inertia.js, react
     
     🔹Database Engines
     
-        MySQL, MariaDB, SQL Server, PostgreSQL
+          MySQL, MariaDB, SQL Server, PostgreSQL
     
     ⭐ 🛠 Tools I Use
     
@@ -34,28 +31,28 @@
     
     🔹Development Environments
     
-        Visual Studio Code and IntelliJ IDEA
+          Visual Studio Code and IntelliJ IDEA
     
     🔹Build & Dependency Management
     
-        Node.js & NPM, Composer, Maven
+          Node.js & NPM, Composer, Maven
     
     🔹API & Testing Tools
     
-        Postman
+          Postman
     
     🔹Containers
     
-        Docker
+          Docker
     
     🔹Database Management Tools
     
-        MySQL Workbench, phpMyAdmin, pgAdmin.
+          MySQL Workbench, phpMyAdmin, pgAdmin.
     
     ⭐📦 Platforms I've Worked With
     
-        ERP: NetSuite and Odoo
-        CRM: HubSpot and Salesforce  
+          ERP: NetSuite and Odoo
+          CRM: HubSpot and Salesforce  
 
 
 - 👨‍💻 All of my projects are available at [Alfredo9909/Repositorios](https://github.com/Alfredo9909?tab=repositories)
