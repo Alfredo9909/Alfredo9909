@@ -10,10 +10,12 @@
         Design Patterns, MVC Architecture, Scrum Methodology
     
     🔹Programming Languages
+  
         PHP, Java, JavaScript, Python and C++
     
     🔹Frameworks
         Backend
+  
           Laravel (PHP), Spring Boot (Java)
           
         Frontend/Full-Stack
