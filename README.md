@@ -5,8 +5,59 @@
 
 - 🔭 I am currently working in a system of guards and logs. (https://github.com/alfredonet99/GuardiasBitacora))
 
-- 🌱 I’m currently learning **design patterns in Java, creation of 3D figures, creation of compilers, database managers and Website creation PHP using Laravel and library React of JS, managing the Voyager admin package**
+- ⭐My Technical Learning Background
+🔹Core Software Development Foundations
 
+Design Patterns, MVC Architecture, Scrum Methodology
+
+🔹 Programming Languages
+
+PHP, Java, JavaScript, Python, C++
+
+🔹 Frameworks
+Backend
+
+Laravel (PHP), Spring Boot (Java)
+
+Frontend/Full-Stack
+
+Inertia.js, react
+
+🔹 Database Engines
+
+MySQL, MariaDB, SQL Server, PostgreSQL
+
+
+⭐ 🛠 Tools I Use
+
+🔹Jira – Agile project and task management
+
+🔹Git & GitHub – Version control and collaborative development
+
+🔹Development Environments
+
+Visual Studio Code and IntelliJ IDEA
+
+🔹Build & Dependency Management
+
+Node.js & NPM, Composer, Maven
+
+🔹API & Testing Tools
+
+Postman
+
+🔹Containers
+
+Docker
+
+🔹Database Management Tools
+
+MySQL Workbench, phpMyAdmin, pgAdmin.
+
+⭐ 📦 Platforms I've Worked With
+
+ERP: NetSuite and Odoo
+CRM: HubSpot and Salesforce
 
 
 - 👨‍💻 All of my projects are available at [Alfredo9909/Repositorios](https://github.com/Alfredo9909?tab=repositories)
